@@ -32,4 +32,5 @@ https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-e
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://sigs.interserver.net/iprbl.txt
 https://voipbl.org/update
-https://www.talosintelligence.com/documents/ip-blacklist
+https://snort.org/downloads/ip-block-list
+#https://www.talosintelligence.com/documents/ip-blacklist
